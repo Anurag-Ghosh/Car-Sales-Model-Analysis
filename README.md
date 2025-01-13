@@ -1,4 +1,4 @@
-# Car-Sales-Model-Analysis
+# Car Sales Model Analysis
 ### Final Project for Data Visualization and Dashboards with Excel and Cognos (Course 3 of IBM Data Analyst Professional Certificate)
 ----------------
 #### Assignment Scenario: 
